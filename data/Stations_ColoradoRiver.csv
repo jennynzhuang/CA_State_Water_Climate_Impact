@@ -1,0 +1,21 @@
+ID,Station Name,River Basin,County,Longitude,Latitude,ElevationFeet,Operator,HydrologicArea
+29P,TWENTYNINE PALMS,COLORADO RIVER,SAN BERNARDINO,-116.037,34.127,"1,975",National Weather Service,Colorado River
+BLY,BLYTHE,COLORADO RIVER,RIVERSIDE,-114.717,33.617,390,CA Dept of Forestry and Fire Protection,Colorado River
+BNY,BURNS CANYON,WHITEWATER RIVER,SAN BERNARDINO,-116.6217,34.208,"6,000",CA Dept of Forestry and Fire Protection,Colorado River
+BUT,BUTTERCUP,COLORADO RIVER,IMPERIAL,-114.884,32.74,320,US Bureau of Land Management,Colorado River
+CAU,CAHUILLA,COLORADO RIVER,IMPERIAL,-115.174,32.974,278,US Bureau of Land Management,Colorado River
+CLD,COLORADO R-LEES FERY,COLORADO RIVER,State of Arizona,-111.588,36.865,"9,999",.None Specified,Colorado River
+CON,CONVERSE,SANTA ANA RIVER,SAN BERNARDINO,-116.913,34.194,"5,618",US Forest Service,Colorado River
+FIS,FISH CREEK MOUNTAINS,WEST SALTON SEA,IMPERIAL,-116.058,32.983,760,US Bureau of Land Management,Colorado River
+HVS,LAKE HAVASU,COLORADO RIVER,SAN BERNARDINO,-114.156,34.317,451,US Bureau of Reclamation,Colorado River
+IMP,IMPERIAL VALLEY,COLORADO RIVER,IMPERIAL,-115.57,32.85,-64,National Weather Service,Colorado River
+LTH,LOST HORSE,WHITEWATER RIVER,RIVERSIDE,-116.183,34.017,"4,100",National Park Service,Colorado River
+MEA,LAKE MEAD,COLORADO RIVER,State of Arizona,-114.736,36.016,"3,700",US Bureau of Reclamation,Colorado River
+MHV,LAKE MOHAVE,COLORADO RIVER,State of Nevada,-114.567,35.197,644,US Bureau of Reclamation,Colorado River
+MNS,MEANS LAKE,WHITEWATER RIVER,SAN BERNARDINO,-116.517,34.391,"2,900",US Bureau of Land Management,Colorado River
+NDL,NEEDLES,COLORADO RIVER,SAN BERNARDINO,-114.6,34.833,480,National Weather Service,Colorado River
+PMS,PALM SPRINGS,WHITEWATER RIVER,RIVERSIDE,-116.5,33.833,425,National Weather Service,Colorado River
+PWL,LAKE POWELL,COLORADO RIVER,State of Arizona,-111.493,36.937,"3,700",US Bureau of Reclamation,Colorado River
+RIC,RICE VALLEY,COLORADO RIVER,RIVERSIDE,-114.732278,34.06075,831,US Bureau of Land Management,Colorado River
+SQK,SENATOR WASH,COLORADO RIVER,IMPERIAL,-114.494,32.908,300,US Bureau of Land Management,Colorado River
+YUC,YUCCA VALLEY,WHITEWATER RIVER,SAN BERNARDINO,-116.408,34.123,"3,100",CA Dept of Forestry and Fire Protection,Colorado River

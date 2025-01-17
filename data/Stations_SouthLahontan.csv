@@ -1,0 +1,80 @@
+ID,Station Name,River Basin,County,Longitude,Latitude,ElevationFeet,Operator,HydrologicArea
+BFS,BARSTOW,MOJAVE RIVER,SAN BERNARDINO,-117.017,34.9,"2,320",Mohave River Museum,South Lahontan
+BGP,BIG PINE CREEK,OWENS RIVER,INYO,-118.476967,37.127815,"9,800",CA Dept of Water Resources/DFM-Hydro-SMN,South Lahontan
+BIS,BISHOP,OWENS RIVER,INYO,-118.4,37.35,"4,140",City of Los Angeles; Dept of Water and Power,South Lahontan
+BP2,BIG PINE CREEK 2,OWENS RIVER,INYO,-118.47,37.127,"9,700",City of Los Angeles; Dept of Water and Power,South Lahontan
+BP3,BIG PINE CREEK 3,OWENS RIVER,INYO,-118.475,37.128,"9,800",City of Los Angeles; Dept of Water and Power,South Lahontan
+BPI,BIG PINES,ANTELOPE VALLEY,LOS ANGELES,-117.6878,34.379166,"6,917",US Forest Service,South Lahontan
+BSP,BISHOP LAKE,OWENS RIVER,INYO,-118.545,37.123,"11,300",CA Dept of Water Resources,South Lahontan
+BTN,BENTON,OWENS RIVER,MONO,-118.478,37.843,"5,450",CA Dept of Forestry and Fire Protection,South Lahontan
+C66,CAL AQUEDUCT CHECK 66 (KA040341),MOJAVE RIVER,SAN BERNARDINO,-117.3036,34.336,"3,448",CA Dept of Water Resources/Operations and Maintenance,South Lahontan
+CNL,CHINA LAKE ARMITAGE,CHINA LAKE,KERN,-117.683,35.683,"2,220",National Weather Service,South Lahontan
+CRC,CROOKED CREEK (LONG VALLEY),OWENS RIVER,MONO,-118.7,37.583,"6,800",City of Los Angeles; Dept of Water and Power,South Lahontan
+CRW,LAKE CROWLEY,OWENS RIVER,MONO,-118.707,37.604,"6,797",City of Los Angeles; Dept of Water and Power,South Lahontan
+CTT,COTTONWOOD GATES,OWENS RIVER,INYO,-118.033,36.417,"3,775",City of Los Angeles; Dept of Water and Power,South Lahontan
+CVW,CRESTVIEW,OWENS RIVER,MONO,-118.983,37.745,"7,600",US Forest Service,South Lahontan
+CW1,COTTONWOOD LAKES 1,OWENS RIVER,INYO,-118.177,36.483,"10,150",City of Los Angeles; Dept of Water and Power,South Lahontan
+CWD,COTTONWOOD LAKES,OWENS RIVER,INYO,-118.177559,36.483829,"10,150",CA Dept of Water Resources/DFM-Hydro-SMN,South Lahontan
+CXS,CARSON PASS,AMERICAN RIVER,ALPINE,-120.0021,38.6924,"8,353",Natural Resources Conservation Service,South Lahontan
+DTV,DEATH VALLEY,AMARGOSA RIVER,INYO,-116.867,36.467,-194,National Weather Service,South Lahontan
+EFM,EAST FK OF WEST FK MOJAVE R UPR MILLER,MOJAVE RIVER,SAN BERNARDINO,-117.2919,34.2703,"3,590",CA Dept of Water Resources/O&M Southern Field Division,South Lahontan
+ELL,ELLERY LAKE,MONO LAKE,MONO,-119.248,37.938,"9,600","Southern California Edison Company, Bishop",South Lahontan
+EPP,EAST PIUTE PASS,OWENS RIVER,INYO,-118.687,37.235,"10,800",CA Dept of Water Resources,South Lahontan
+ERY,ELLERY LAKE,MONO LAKE,MONO,-119.232201,37.934967,"9,645",CA Dept of Water Resources/DFM-Hydro-SMN,South Lahontan
+FML,FIVE MILE,KINGS RIVER,INYO,-117.918,35.872,"4,150",US Bureau of Land Management,South Lahontan
+FMT,FAIRMONT RESERVOIR,MOJAVE DESERT,LOS ANGELES,-118.433462,34.711777,"3,060",City of Los Angeles; Dept of Water and Power,South Lahontan
+GAM,GRANITE MOUNTAIN,MOJAVE RIVER,SAN BERNARDINO,-117.026,34.536,"4,690",US Bureau of Land Management,South Lahontan
+GEM,GEM PASS,MONO LAKE,MONO,-119.17,37.78,"10,750",CA Dept of Water Resources/DFM-Hydro-SMN,South Lahontan
+GLK,GEM  LAKE,MONO LAKE,MONO,-119.14,37.752,"9,054","Southern California Edison Company, Big Creek",South Lahontan
+GML,GEM LAKE,MONO LAKE,MONO,-119.162,37.752,"9,150","Southern California Edison Company, Bishop",South Lahontan
+GNT,GRANT LAKE,MONO LAKE,MONO,-119.102,37.862,"7,140",City of Los Angeles; Dept of Water and Power,South Lahontan
+HVF,HUNGRY VALLEY FIRE STATION 77,MOJAVE DESERT,LOS ANGELES,-118.796944,34.759445,"3,459",Los Angeles County,South Lahontan
+HWE,HAIWEE,OWENS RIVER,INYO,-117.948,36.137,"3,774",City of Los Angeles; Dept of Water and Power,South Lahontan
+IPN,INDEPENDENCE,OWENS RIVER,INYO,-118.204,36.798,"3,950",City of Los Angeles; Dept of Water and Power,South Lahontan
+IWC,INDIAN WELLS CANYON,MOJAVE DESERT,KERN,-117.8894,35.685,"4,000",US Bureau of Land Management,South Lahontan
+JMW,JUNE MOUNTAIN WEATHER PLOT,MONO LAKE,MONO,-119.07781,37.754411,"9,220","Southern California Edison Company, Bishop",South Lahontan
+JWB,JAWBONE,MOJAVE DESERT,KERN,-118.226,35.295,"4,300",CA Dept of Forestry and Fire Protection,South Lahontan
+LPA,LAKE PALMDALE,MOJAVE DESERT,LOS ANGELES,-118.1014,34.5372,"2,980",Los Angeles County Fire Dept,South Lahontan
+LRK,LITTLE ROCK RESERVOIR,MOJAVE DESERT,LOS ANGELES,-118.022,34.485,745,.None Specified,South Lahontan
+LRM,LAURAL MOUNTAIN,CHINA LAKE,KERN,-117.6992,35.4783,"4,390",US Bureau of Land Management,South Lahontan
+MAM,MAMMOTH PASS (LADWP),OWENS RIVER,MONO,-119.033,37.61,"9,300",City of Los Angeles; Dept of Water and Power,South Lahontan
+MHP,MAMMOTH PASS (USBR),OWENS RIVER,MONO,-119.031746,37.6124,"9,300",US Bureau of Reclamation,South Lahontan
+MJD,MOJAVE R DAM,MOJAVE RIVER,SAN BERNARDINO,-117.235,34.3425,47,US Army Corps of Engineers,South Lahontan
+MJP,MOJAVE POWER PLANT,MOJAVE DESERT,SAN BERNARDINO,-117.32125,34.30832,"3,424",CA Dept of Water Resources/Operations and Maintenance,South Lahontan
+MLL,MILL CREEK NEAR YUCAIPA,SANTA ANA RIVER,SAN BERNARDINO,-117.035,34.083,"2,950",US Bureau of Land Management,South Lahontan
+MMT,MAMMOTH,OWENS RIVER,MONO,-118.992,37.62,"8,300",City of Los Angeles; Dept of Water and Power,South Lahontan
+MN2,MINARETS 2,OWENS RIVER,MONO,-119.017,37.663,"9,000",City of Los Angeles; Dept of Water and Power,South Lahontan
+MOJ,MOJAVE RIVER SINK,MOJAVE RIVER,SAN BERNARDINO,-116.083,35.058,950,US Bureau of Land Management,South Lahontan
+MVV,MOJAVE RIVER - VICTORVILLE,MOJAVE RIVER,SAN BERNARDINO,-117.32,34.57,"2,643",US Geological Survey,South Lahontan
+NTH,NORTH LAKE,OWENS RIVER,INYO,-118.62,37.228,"9,300",CA Dept of Water Resources,South Lahontan
+OAC,OAK CREEK,OWENS RIVER,INYO,-118.259,36.843,"4,855",CA Dept of Forestry and Fire Protection,South Lahontan
+OTR,OWENS RIVER BELOW TINEMAHA RESERVOIR,OWENS RIVER,INYO,-118.225,37.058,"3,882",Los Angeles County,South Lahontan
+OVC,OWENS VALLEY,OWENS RIVER,INYO,-118.55,37.39,"4,640",CA Dept of Forestry and Fire Protection,South Lahontan
+OWL,OWENS RIVER-LONG VLY,OWENS RIVER,MONO,-118.7084,37.5875,"2,065",City of Los Angeles; Dept of Water and Power,South Lahontan
+PLM,PALM SPRINGS AIRPORT,WHITEWATER RIVER,RIVERSIDE,-116.503609,33.822224,474,National Weather Service,South Lahontan
+PNY,PINE CANYON PATROL STATION,MOJAVE DESERT,LOS ANGELES,-118.428886,34.673332,"3,400",Los Angeles County,South Lahontan
+PTE,PIUTES FS,MOJAVE DESERT,KERN,-118.2789,35.4456,"6,440",US Bureau of Land Management,South Lahontan
+PVR,PLEASANT VALLEY RESERVOIR,OWENS RIVER,INYO,-118.583576,37.423578,"4,400",City of Los Angeles; Dept of Water and Power,South Lahontan
+RC1,ROCK CREEK 1,OWENS RIVER,MONO,-118.717,37.492,"8,700",City of Los Angeles; Dept of Water and Power,South Lahontan
+RC2,ROCK CREEK 2,OWENS RIVER,MONO,-118.717,37.473,"9,050",City of Los Angeles; Dept of Water and Power,South Lahontan
+RC3,ROCK CREEK 3,OWENS RIVER,INYO,-118.742,37.45,"10,000",City of Los Angeles; Dept of Water and Power,South Lahontan
+RCK,ROCK CREEK LAKES,OWENS RIVER,INYO,-118.735023,37.457275,"9,700",CA Dept of Water Resources/DFM-Hydro-SMN,South Lahontan
+RCM,ROCK CAMP,MOJAVE DESERT,SAN BERNARDINO,-117.213,34.288,"4,924",US Forest Service,South Lahontan
+RKC,ROCK CREEK NEAR MAMMOTH LAKES,OWENS RIVER,MONO,-118.667,37.551,"7,040",US Forest Service,South Lahontan
+RVE,RIVERSIDE AIRPORT,SANTA ANA RIVER,RIVERSIDE,-117.444168,33.951946,827,National Weather Service,South Lahontan
+SBE,SANDBERG ALERT,MOJAVE DESERT,LOS ANGELES,-118.723892,34.746387,"3,635",Los Angeles County,South Lahontan
+SBN,LAKE SABRINA,OWENS RIVER,INYO,-118.617,37.217,"9,065","Southern California Edison Company, Big Creek",South Lahontan
+SDB,SADDLEBAG LAKE RESERVOIR,MONO LAKE,MONO,-119.272,37.966,"10,090","Southern California Edison Company, Big Creek",South Lahontan
+SDL,SADDLEBAG LAKE,MONO LAKE,MONO,-119.267,37.957,"9,750","Southern California Edison Company, Bishop",South Lahontan
+SKR,SOUTH LAKE RESERVOIR,OWENS RIVER,INYO,-118.56954,37.16602,837,"Southern California Edison Company, Bishop",South Lahontan
+SLK,SOUTH LAKE,OWENS RIVER,INYO,-118.56266,37.175903,"9,600",CA Dept of Water Resources/DFM-Hydro-SMN,South Lahontan
+SLW,LAKE SILVERWOOD,MOJAVE RIVER,SAN BERNARDINO,-117.318,34.304,"3,331",CA Dept of Water Resources/Operations and Maintenance,South Lahontan
+SNG,SANDBERG,MOJAVE DESERT,LOS ANGELES,-118.724167,34.74361,"4,510",National Weather Service,South Lahontan
+SOT,SOUTHERN REGION SNOW,SAN JOAQUIN RIVER,none specified,-118.7,36.9,"5,000",CA Dept of Water Resources/DFM-Hydro-Water Supply Fcasting,South Lahontan
+SWM,SAWMILL,OWENS RIVER,INYO,-118.562592,37.161964,"10,200",CA Dept of Water Resources/DFM-Hydro-SMN,South Lahontan
+SWS,RED MOUNTAIN,MOJAVE DESERT,SAN BERNARDINO,-117.5703,35.3683,"3,620",US Bureau of Land Management,South Lahontan
+TGP,TIOGA PASS,MONO LAKE,MONO,-119.253,37.917,"9,800","Southern California Edison Company, Bishop",South Lahontan
+TNM,TINEMAHA RESERVOIR,OWENS RIVER,INYO,-118.225,37.058,"3,882",City of Los Angeles; Dept of Water and Power,South Lahontan
+TRL,TRAILHEAD,OWENS RIVER,INYO,-118.155,36.337,"9,100",City of Los Angeles; Dept of Water and Power,South Lahontan
+VLY,VALYERMO,ANTELOPE VALLEY,LOS ANGELES,-117.851,34.446,"3,780",US Forest Service,South Lahontan
+WFM,WEST FORK MOJAVE RIVER UPPER CLEGHORN,MOJAVE RIVER,SAN BERNARDINO,-117.3711,34.285,"3,550",CA Dept of Water Resources/Operations and Maintenance,South Lahontan

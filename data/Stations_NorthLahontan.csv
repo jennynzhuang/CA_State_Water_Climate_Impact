@@ -1,0 +1,106 @@
+ID,Station Name,River Basin,County,Longitude,Latitude,ElevationFeet,Operator,HydrologicArea
+BCA,BOCA,TRUCKEE RIVER,NEVADA,-120.1,39.383,"5,575",National Weather Service,North Lahontan
+BDE,BODIE,WALKER RIVER,MONO,-119.017,38.217,"8,370",National Weather Service,North Lahontan
+BDG,BRIDGEPORT R S,WALKER RIVER,MONO,-119.233,38.25,"6,470",US Forest Service,North Lahontan
+BDP,BRIDGEPORT RESERVOIR,WALKER RIVER,MONO,-119.211,38.325,"6,466",Walker River Irrigation District,North Lahontan
+BFC,BUFFALO CREEK,NOT SPECIFIED,State of Nevada,-119.79,40.5819,"3,900",US Bureau of Land Management,North Lahontan
+BGD,BOGARD RANGER STATION,SUSAN RIVER,LASSEN,-121.08,40.59,"5,680",CA Dept of Forestry and Fire Protection,North Lahontan
+BIJ,"BIJOU, SOUTH LAKE TAHOE",TRUCKEE RIVER,EL DORADO,-119.96337,38.94191,"6,266",Center for Western Weather and Water Extremes,North Lahontan
+BMW,BIG MEADOWS (SCS),TRUCKEE RIVER,State of Nevada,-119.946,39.458,"8,700",Natural Resources Conservation Service,North Lahontan
+BOC,BOCA RESERVOIR,TRUCKEE RIVER,NEVADA,-120.095,39.388,"5,521",US Bureau of Reclamation,North Lahontan
+BPT,BRIDGEPORT,WALKER RIVER,MONO,-119.289,38.272,"6,650",US Forest Service,North Lahontan
+BRR,BARREL SPRINGS,PIT RIVER,State of Nevada,-119.9389,41.9111,"5,835",US Bureau of Land Management,North Lahontan
+BSK,BURNSIDE LAKE,CARSON RIVER,ALPINE,-119.8942,38.7194,"8,129",Natural Resources Conservation Service,North Lahontan
+CDV,CEDARVILLE,SURPRISE VALLEY,MODOC,-120.167,41.533,"4,670","Southern California Edison Company, Big Creek",North Lahontan
+CEM,E FK CARSON R NR MARKLEEVILLE,CARSON RIVER,ALPINE,-119.7647,38.7147,"5,400",US Geological Survey,North Lahontan
+CEN,CENTRAL REGION SNOW,YUBA RIVER,none specified,-120.1,38.6,"5,000",CA Dept of Water Resources/DFM-Hydro-Water Supply Fcasting,North Lahontan
+CVL,WEST WALKER NR HWY 395 BLW LITTLE WALKER,WALKER RIVER,MONO,-119.454,38.515,"5,520",National Weather Service,North Lahontan
+DCK,DONNER CREEK AT HWY 89,TRUCKEE RIVER,NEVADA,-120.207977,39.321018,"5,870",US Geological Survey,North Lahontan
+DMS,DONNER MEM ST PARK,TRUCKEE RIVER,NEVADA,-120.233,39.317,"5,937",National Weather Service,North Lahontan
+DNC,DONNER CREEK AT DONNER LAKE,TRUCKEE RIVER,NEVADA,-120.234367,39.323517,"5,924",US Geological Survey,North Lahontan
+DNN,DONNER LAKE,TRUCKEE RIVER,NEVADA,-120.2644,39.322777,"5,945",US Geological Survey,North Lahontan
+DSS,DISMAL SWAMP,SURPRISE VALLEY,MODOC,-120.165,41.993,"7,050",Natural Resources Conservation Service,North Lahontan
+DYE,DOYLE (BLM),SUSAN RIVER,LASSEN,-120.106,40.022,"4,240",CA Dept of Forestry and Fire Protection,North Lahontan
+DYL,DOYLE,SUSAN RIVER,LASSEN,-120.1,40.033,"4,240",National Weather Service,North Lahontan
+EBB,EBBETTS PASS,CARSON RIVER,ALPINE,-119.808,38.561,"8,700",Natural Resources Conservation Service,North Lahontan
+ECO,ECHO LAKE,TRUCKEE RIVER,EL DORADO,-120.037,38.831,"7,420",El Dorado Irrigation District,North Lahontan
+EFC,EAST FK CARSON RIVER NR GARDNERVILLE,CARSON RIVER,State of Nevada,-119.703,38.847,"4,985",US Geological Survey,North Lahontan
+EP5,ECHO PEAK 5,LAKE TAHOE,EL DORADO,-120.079,38.849,"7,800",Natural Resources Conservation Service,North Lahontan
+EWR,EAST WALKER RIVER NR BRIDGEPORT,WALKER RIVER,MONO,-119.214,38.328,"6,400",US Geological Survey,North Lahontan
+FAR,TRUCKEE RIVER AT FARAD,TRUCKEE RIVER,NEVADA,-120.034088,39.427963,"5,153",US Geological Survey,North Lahontan
+FBN,FREEL BENCH,LAKE TAHOE,EL DORADO,-119.95,38.85,"7,300",Natural Resources Conservation Service,North Lahontan
+FBW,FORT BIDWELL,SURPRISE VALLEY,MODOC,-120.133,41.85,"4,500",National Weather Service,North Lahontan
+FDC,FORESTDALE CREEK,CARSON RIVER,ALPINE,-119.9597,38.6824,"8,017",Natural Resources Conservation Service,North Lahontan
+FLL,FALLEN LEAF LAKE,LAKE TAHOE,EL DORADO,-120.056,38.932,"6,250",Natural Resources Conservation Service,North Lahontan
+GDV,EAST FORK CARSON R NEAR GARDNERVILLE,CARSON RIVER,State of Nevada,-119.703,38.847,"4,985",US Geological Survey,North Lahontan
+GHS,GROVER HOT SPRINGS,CARSON RIVER,ALPINE,-119.817,38.694,"5,820",CA Dept of Parks and Recreation,North Lahontan
+GL2,GLENBROOK 2 (NEVADA),LAKE TAHOE,State of Nevada,-119.908,39.083,"6,900","Truckee River Basin Water Committee, Reno",North Lahontan
+GRS,GRASSHOPPER,SUSAN RIVER,LASSEN,-120.784447,40.781666,"6,050",CA Dept of Forestry and Fire Protection,North Lahontan
+HGM,HAGANS MEADOW,LAKE TAHOE,EL DORADO,-119.94,38.853,"8,000",Natural Resources Conservation Service,North Lahontan
+HOR,HORSE MEADOW (NRCS),CARSON RIVER,ALPINE,-119.8873,38.8365,"8,557",Natural Resources Conservation Service,North Lahontan
+HVN,HEAVENLY VALLEY,LAKE TAHOE,EL DORADO,-119.917,38.929,"8,800",Natural Resources Conservation Service,North Lahontan
+IDC,INDEPENDENCE CAMP,TRUCKEE RIVER,SIERRA,-120.298548,39.452588,"7,000",Natural Resources Conservation Service,North Lahontan
+IDP,INDEPENDENCE LAKE (SCS),TRUCKEE RIVER,NEVADA,-120.322,39.435,"8,450",Natural Resources Conservation Service,North Lahontan
+INC,INDEPENDENCE CREEK NEAR TRUCKEE,TRUCKEE RIVER,SIERRA,-120.287148,39.456572,"6,920",US Geological Survey,North Lahontan
+INN,INDEPENDENCE CREEK,TRUCKEE RIVER,SIERRA,-120.293,39.494,"6,500",Natural Resources Conservation Service,North Lahontan
+INP,INDEPENDENCE LAKE NEAR TRUCKEE,TRUCKEE RIVER,SIERRA,-120.29,39.452,"6,921",US Geological Survey,North Lahontan
+LAB,LITTLE TRUCKEE R ABV BOCA RESERVOIR,TRUCKEE RIVER,NEVADA,-120.084366,39.435741,"5,619",USGS/DWR,North Lahontan
+LBD,LOBDELL LAKE,WALKER RIVER,MONO,-119.377,38.44,"9,200",Natural Resources Conservation Service,North Lahontan
+LLL,LAKE LUCILLE,LAKE TAHOE,EL DORADO,-120.112,38.86,"8,200","Truckee River Basin Water Committee, Reno",North Lahontan
+LTK,LITTLE TRUCKEE R BL BOCA RES,TRUCKEE RIVER,NEVADA,-120.095474,39.386852,"5,500",US Geological Survey,North Lahontan
+LVM,LEAVITT MEADOWS,WALKER RIVER,MONO,-119.552,38.305,"7,200",Natural Resources Conservation Service,North Lahontan
+LVT,LEAVITT LAKE,WALKER RIVER,MONO,-119.621,38.282,"9,600",Natural Resources Conservation Service,North Lahontan
+LWO,LITTLE WASHOE LAKE,TRUCKEE RIVER,WASHOE (NV),-119.802069,39.329748,"5,070",US Water Master Office Reno,North Lahontan
+MKV,MARKLEEVILLE,CARSON RIVER,ALPINE,-119.783,38.7,"5,530",National Weather Service,North Lahontan
+MNT,MONITOR PASS,CARSON RIVER,ALPINE,-119.615,38.67,"8,350",Natural Resources Conservation Service,North Lahontan
+MRL,MARLETTE LAKE,LAKE TAHOE,State of Nevada,-119.905,39.173,"8,000",Natural Resources Conservation Service,North Lahontan
+MRO,MOUNT ROSE,TRUCKEE RIVER,State of Nevada,-119.898,39.353,"9,000",Natural Resources Conservation Service,North Lahontan
+MRT,MARTIS CREEK RESERVOIR,TRUCKEE RIVER,NEVADA,-120.113,39.327,"5,745",US Army Corps of Engineers,North Lahontan
+MSK,MOUNT ROSE SKI AREA,LAKE TAHOE,State of Nevada,-119.902,39.326,"8,900",Natural Resources Conservation Service,North Lahontan
+MTK,MARTIS CK NR TRUCKEE,TRUCKEE RIVER,NEVADA,-120.117699,39.328796,"5,730",US Army Corps of Engineers,North Lahontan
+NOR,NORTHERN REGION SNOW,TRINITY RIVER,none specified,-121.3,40.6,"5,000",CA Dept of Water Resources/DFM-Hydro-Water Supply Fcasting,North Lahontan
+NRF,NORVELL FLAT,SUSAN RIVER,LASSEN,-121.007,40.482,"5,700",Eagle Lake Ranger District,North Lahontan
+PRS,PROSSER CREEK RESERVOIR,TRUCKEE RIVER,NEVADA,-120.1367,39.3794,"5,622",US Bureau of Reclamation,North Lahontan
+PSN,POISON FLAT,CARSON RIVER,ALPINE,-119.631,38.501,"7,900",Natural Resources Conservation Service,North Lahontan
+PTK,PROSSER CREEK NEAR TRUCKEE,TRUCKEE RIVER,NEVADA,-120.131584,39.373241,"5,602",US Geological Survey,North Lahontan
+RAV,RAVENDALE,SUSAN RIVER,LASSEN,-120.316,40.731,"5,298",US Forest Service,North Lahontan
+RCH,RICHARDSONS 2,LAKE TAHOE,EL DORADO,-120.05,38.917,"6,500","Truckee River Basin Water Committee, Reno",North Lahontan
+RP1,RUBICON PEAK 1,LAKE TAHOE,EL DORADO,-120.142,38.992,"8,100","Truckee River Basin Water Committee, Reno",North Lahontan
+RP2,RUBICON PEAK 2,LAKE TAHOE,EL DORADO,-120.14,39.001,"7,500",Natural Resources Conservation Service,North Lahontan
+SDW,SUMMIT MEADOW,WALKER RIVER,MONO,-119.5356,38.3975,"9,313",Natural Resources Conservation Service,North Lahontan
+SGH,SAGEHEN CREEK,TRUCKEE RIVER,NEVADA,-120.233,39.433,"6,337",National Weather Service,North Lahontan
+SLH,SOUTH LAKE TAHOE AIRPORT,TRUCKEE RIVER,EL DORADO,-119.99472,38.898335,"6,314",National Weather Service,North Lahontan
+SPL,STAMPEDE (USFS),TRUCKEE RIVER,SIERRA,-120.054,39.483,"6,867",CA Dept of Forestry and Fire Protection,North Lahontan
+SPS,SONORA PASS BRIDGE,WALKER RIVER,MONO,-119.601,38.318,"8,750",Natural Resources Conservation Service,North Lahontan
+SPT,SPRATT CREEK,CARSON RIVER,ALPINE,-119.81742,38.66627,"6,150",Natural Resources Conservation Service,North Lahontan
+SQ2,PALISADES TAHOE #2,TRUCKEE RIVER,PLACER,-120.248,39.188,"7,700",Natural Resources Conservation Service,North Lahontan
+SQV,PALISADES TAHOE SNOTEL,TRUCKEE RIVER,PLACER,-120.276,39.194,"8,200",Natural Resources Conservation Service,North Lahontan
+SRP,SONORA PASS,WALKER RIVER,MONO,-119.607,38.313,"8,750","Pacific Gas and Electric Company, Angels Camp",North Lahontan
+SSD,SUSAN R NR STANDISH,SUSAN RIVER,LASSEN,-120.435036,40.381092,"4,030",CA Dept of Water Resources/North Region Office,North Lahontan
+SSN,SUSANVILLE,SUSAN RIVER,LASSEN,-120.567,40.367,"4,148",CA Dept of Forestry and Fire Protection,North Lahontan
+SSU,SUSAN RIVER AT SUSANVILLE,SUSAN RIVER,LASSEN,-120.664223,40.413715,"4,190",CA Dept of Water Resources/North Region Office,North Lahontan
+STP,STAMPEDE,TRUCKEE RIVER,SIERRA,-120.103,39.471,"5,956",US Geological Survey,North Lahontan
+SVR,SILVER LAKE MEADOWS,SUSAN RIVER,LASSEN,-121.153,40.497,"6,450",Eagle Lake Ranger District,North Lahontan
+SWL,SAWMILL RIDGE,WALKER RIVER,none specified,-119.35,38.183,"8,750",Natural Resources Conservation Service,North Lahontan
+TAC,TAHOE CITY (NWS),LAKE TAHOE,PLACER,-120.133,39.167,"6,230",National Weather Service,North Lahontan
+TCC,TAHOE CITY CROSS,LAKE TAHOE,PLACER,-120.154658,39.171439,"6,750",Natural Resources Conservation Service,North Lahontan
+THC,LAKE TAHOE AT TAHOE CITY,TRUCKEE RIVER,PLACER,-120.119,39.182,"6,230",USGS/DWR,North Lahontan
+TK2,TRUCKEE 2,TRUCKEE RIVER,PLACER,-120.194,39.3,"6,400",Natural Resources Conservation Service,North Lahontan
+TKE,TRUCKEE RS (OBS),TRUCKEE RIVER,NEVADA,-120.183,39.333,"6,020",US Forest Service,North Lahontan
+TKT,TRUCKEE RIVER AT TAHOE,LAKE TAHOE,PLACER,-120.143,39.164,"6,217",US Geological Survey,North Lahontan
+TOT,COMBINED SSD & WCD FLOWS,SUSAN RIVER,LASSEN,-120.4342,40.3814,"4,030",CA Dept of Water Resources/Operations and Maintenance,North Lahontan
+TRF,TRUCKEE RIVER AT FARAD,LAKE TAHOE,NEVADA,-120.033,39.428,"5,153",US Geological Survey,North Lahontan
+TRK,TRUCKEE RIVER NEAR TRUCKEE,TRUCKEE RIVER,NEVADA,-120.205475,39.296295,"5,858",US Geological Survey,North Lahontan
+TTC,TRUCKEE RIVER AT TAHOE CITY,TRUCKEE RIVER,PLACER,-120.144356,39.166294,"5,930",US Geological Survey,North Lahontan
+UPT,UPPER TRUCKEE AT SOUTH LAKE TAHOE,TRUCKEE RIVER,EL DORADO,-119.99157,38.922409,"6,229",US Geological Survey,North Lahontan
+UTR,UPPER TRUCKEE,LAKE TAHOE,EL DORADO,-119.983,38.873,"6,400",Natural Resources Conservation Service,North Lahontan
+VRG,VIRGINIA LAKES RIDGE,WALKER RIVER,MONO,-119.234,38.077,"9,300",Natural Resources Conservation Service,North Lahontan
+WBB,WEBBER LAKE,TRUCKEE RIVER,SIERRA,-120.425,39.485,"7,000",Nevada Irrigation District,North Lahontan
+WC3,WARD CREEK 3,LAKE TAHOE,PLACER,-120.218678,39.135574,"6,750",Natural Resources Conservation Service,North Lahontan
+WCD,WILLOW CREEK NEAR STANDISH,SUSAN RIVER,LASSEN,-120.434998,40.381168,"4,030",CA Dept of Water Resources/North Region Office,North Lahontan
+WDD,CARSON RIVER WF AT WOODFORDS,CARSON RIVER,ALPINE,-119.832,38.769,"5,754",National Weather Service,North Lahontan
+WFC,WEST FORK CARSON RIVER AT WOODFORDS,CARSON RIVER,ALPINE,-119.832,38.769,"5,755",US Geological Survey,North Lahontan
+WLF,WILLOW FLAT,WALKER RIVER,MONO,-119.45,38.275,"8,250",Natural Resources Conservation Service,North Lahontan
+WR2,WARD CREEK 2,LAKE TAHOE,PLACER,-120.225,39.142,"7,000",Lake Tahoe Basin Management Unit,North Lahontan
+WWR,WEST WALKER RIVER NR COLEVILLE,WALKER RIVER,MONO,-119.449,38.378,"6,591",US Geological Survey,North Lahontan
+X08,HAWKINS PEAK,CARSON RIVER,ALPINE,-119.85238,38.7425,"8,800",CA Dept of Water Resources/DFM-Hydro-SMN,North Lahontan
